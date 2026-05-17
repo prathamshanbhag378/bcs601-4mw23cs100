@@ -8,6 +8,12 @@ This project is created as part of the BCS601 Project Based Learning on Cloud Pl
 
 ---
 
+## Live Deployment Link (Netlify)
+
+https://bcs601-4mw23cs100.netlify.app
+
+---
+
 ## Technologies Used
 - HTML
 - CSS
